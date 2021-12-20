@@ -1,9 +1,8 @@
 // Close button function
 const leaveWebsite = document.querySelector(".close-button");
-const win = 
 
-leaveWebsite.addEventListener("click", closeTab);
+leaveWebsite.addEventListener("click", closeWebsite);
 
-function closeTab() {
-    window.open(url, '_blank').focus();
+function closeWebsite() {
+    window.location.replace(target = "_blank");
 }
