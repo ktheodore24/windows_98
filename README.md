@@ -1,0 +1,3 @@
+# windows_98
+
+<a href="https://github.com/jdan/98.css">"98.css"</a> is a fun and interesting stylesheet created by <a href="https://github.com/jdan">Jordan Scales</a>. It essentially converts normal HTML into a retro Windows 98 style. Inspired by my love for nostalgia and 90s and 2000s culture, I decided to try and create a full website using this stylesheet. The content included in this website will mainly focus on the music, TV shows, movies, and any other forms of media and entertainment that were relevant around the time that Windows 98 was created. The main reason for this is so that this website can act as a portal that any users can use to time travel 
